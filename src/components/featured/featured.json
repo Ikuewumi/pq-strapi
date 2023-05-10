@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_featured_featureds",
+  "info": {
+    "displayName": "featured"
+  },
+  "options": {},
+  "attributes": {
+    "quizzes": {
+      "type": "relation",
+      "relation": "oneToMany",
+      "target": "api::quiz.quiz"
+    }
+  }
+}

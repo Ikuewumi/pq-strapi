@@ -1,0 +1,63 @@
+{
+  "kind": "collectionType",
+  "collectionName": "quizzes",
+  "info": {
+    "singularName": "quiz",
+    "pluralName": "quizzes",
+    "displayName": "Quiz",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true,
+      "unique": true
+    },
+    "description": {
+      "type": "text",
+      "required": true
+    },
+    "questions": {
+      "type": "json",
+      "required": true
+    },
+    "author": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::author.author",
+      "mappedBy": "quiz"
+    },
+    "categories": {
+      "type": "enumeration",
+      "enum": [
+        "Endocrinology",
+        "Gastrointestinal System",
+        "Urogenital System",
+        "Reproductive System",
+        "Respiratory System",
+        "Nervous System",
+        "Upper Limbs",
+        "Lower Limbs",
+        "Cell Body and Defense",
+        "Hematology",
+        "Physiology",
+        "Oncology",
+        "Head and Neck",
+        "Pathology",
+        "Other....",
+        "Cardiovascular System",
+        "Urinary System",
+        "Clinical Applications"
+      ]
+    },
+    "cover": {
+      "type": "text",
+      "required": true,
+      "regex": "^data:image\\/.*"
+    }
+  }
+}
