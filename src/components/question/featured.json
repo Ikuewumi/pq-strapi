@@ -1,0 +1,28 @@
+{
+  "collectionName": "components_featured_featureds",
+  "info": {
+    "displayName": "question",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "question": {
+      "type": "string",
+      "required": true
+    },
+    "image": {
+      "type": "text"
+    },
+    "feedback": {
+      "type": "string"
+    },
+    "answer": {
+      "type": "string"
+    },
+    "options": {
+      "type": "text",
+      "regex": "^.+\\n.+\\n.+$",
+      "required": true
+    }
+  }
+}

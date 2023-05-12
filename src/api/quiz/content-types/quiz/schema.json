@@ -25,12 +25,6 @@
       "type": "json",
       "required": true
     },
-    "author": {
-      "type": "relation",
-      "relation": "oneToOne",
-      "target": "api::author.author",
-      "mappedBy": "quiz"
-    },
     "categories": {
       "type": "enumeration",
       "enum": [
@@ -58,6 +52,11 @@
       "type": "text",
       "required": true,
       "regex": "^data:image\\/.*"
+    },
+    "author": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::author.author"
     }
   }
 }

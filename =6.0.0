@@ -1,0 +1,134 @@
+Progress: resolved 0, reused 1, downloaded 0, added 0
+Progress: resolved 1, reused 1, downloaded 0, added 0
+Progress: resolved 1, reused 2, downloaded 0, added 0
+Progress: resolved 4, reused 4, downloaded 0, added 0
+ WARN  GET https://registry.npmjs.org/codemirror error (ETIMEDOUT). Will retry in 10 seconds. 2 retries left.
+ WARN  GET https://registry.npmjs.org/codemirror error (ETIMEDOUT). Will retry in 1 minute. 1 retries left.
+ ERR_PNPM_META_FETCH_FAIL  GET https://registry.npmjs.org/codemirror: request to https://registry.npmjs.org/codemirror failed, reason: connect ETIMEDOUT 192.0.2.1:443
+Progress: resolved 5, reused 4, downloaded 0, added 0
+ WARN  GET https://registry.npmjs.org/@codemirror%2Fautocomplete error (ENOTFOUND). Will retry in 10 seconds. 2 retries left.
+ WARN  GET https://registry.npmjs.org/@codemirror%2Fcommands error (ENOTFOUND). Will retry in 10 seconds. 2 retries left.
+ WARN  GET https://registry.npmjs.org/@codemirror%2Flanguage error (ENOTFOUND). Will retry in 10 seconds. 2 retries left.
+ WARN  GET https://registry.npmjs.org/@codemirror%2Flint error (ENOTFOUND). Will retry in 10 seconds. 2 retries left.
+ WARN  GET https://registry.npmjs.org/@codemirror%2Fsearch error (ENOTFOUND). Will retry in 10 seconds. 2 retries left.
+ WARN  GET https://registry.npmjs.org/@codemirror%2Fstate error (ENOTFOUND). Will retry in 10 seconds. 2 retries left.
+ WARN  GET https://registry.npmjs.org/@codemirror%2Fview error (ENOTFOUND). Will retry in 10 seconds. 2 retries left.
+Progress: resolved 5, reused 5, downloaded 0, added 0
+Progress: resolved 7, reused 7, downloaded 0, added 0
+Progress: resolved 15, reused 15, downloaded 0, added 0
+Progress: resolved 25, reused 25, downloaded 0, added 0
+Progress: resolved 33, reused 33, downloaded 0, added 0
+Progress: resolved 34, reused 34, downloaded 0, added 0
+Progress: resolved 36, reused 36, downloaded 0, added 0
+Progress: resolved 42, reused 42, downloaded 0, added 0
+ WARN  GET https://registry.npmjs.org/@codemirror%2Flanguage error (ENOTFOUND). Will retry in 1 minute. 1 retries left.
+ WARN  GET https://registry.npmjs.org/@codemirror%2Flint error (ENOTFOUND). Will retry in 1 minute. 1 retries left.
+ WARN  GET https://registry.npmjs.org/@codemirror%2Fsearch error (ENOTFOUND). Will retry in 1 minute. 1 retries left.
+Progress: resolved 44, reused 44, downloaded 0, added 0
+ WARN  GET https://registry.npmjs.org/@codemirror%2Fstate error (ENOTFOUND). Will retry in 1 minute. 1 retries left.
+ WARN  GET https://registry.npmjs.org/@codemirror%2Fview error (ENOTFOUND). Will retry in 1 minute. 1 retries left.
+Progress: resolved 45, reused 45, downloaded 0, added 0
+Progress: resolved 49, reused 49, downloaded 0, added 0
+Progress: resolved 49, reused 50, downloaded 0, added 0
+Progress: resolved 55, reused 55, downloaded 0, added 0
+Progress: resolved 60, reused 60, downloaded 0, added 0
+Progress: resolved 78, reused 78, downloaded 0, added 0
+Progress: resolved 97, reused 97, downloaded 0, added 0
+Progress: resolved 109, reused 109, downloaded 0, added 0
+Progress: resolved 113, reused 113, downloaded 0, added 0
+Progress: resolved 120, reused 120, downloaded 0, added 0
+Progress: resolved 128, reused 128, downloaded 0, added 0
+ WARN  GET https://registry.npmjs.org/@codemirror%2Fcommands error (ETIMEDOUT). Will retry in 1 minute. 1 retries left.
+ WARN  GET https://registry.npmjs.org/@codemirror%2Fautocomplete error (ETIMEDOUT). Will retry in 1 minute. 1 retries left.
+Progress: resolved 128, reused 129, downloaded 0, added 0
+Progress: resolved 129, reused 129, downloaded 0, added 0
+Progress: resolved 131, reused 131, downloaded 0, added 0
+Progress: resolved 145, reused 145, downloaded 0, added 0
+Progress: resolved 145, reused 146, downloaded 0, added 0
+Progress: resolved 155, reused 155, downloaded 0, added 0
+Progress: resolved 162, reused 162, downloaded 0, added 0
+Progress: resolved 177, reused 177, downloaded 0, added 0
+Progress: resolved 197, reused 197, downloaded 0, added 0
+Progress: resolved 216, reused 216, downloaded 0, added 0
+Progress: resolved 229, reused 229, downloaded 0, added 0
+Progress: resolved 229, reused 230, downloaded 0, added 0
+Progress: resolved 240, reused 240, downloaded 0, added 0
+Progress: resolved 241, reused 241, downloaded 0, added 0
+Progress: resolved 254, reused 254, downloaded 0, added 0
+Progress: resolved 262, reused 262, downloaded 0, added 0
+Progress: resolved 272, reused 272, downloaded 0, added 0
+Progress: resolved 287, reused 287, downloaded 0, added 0
+Progress: resolved 301, reused 301, downloaded 0, added 0
+ WARN  GET https://registry.npmjs.org/graceful-fs error (ETIMEDOUT). Will retry in 10 seconds. 2 retries left.
+Progress: resolved 301, reused 302, downloaded 0, added 0
+Progress: resolved 311, reused 311, downloaded 0, added 0
+Progress: resolved 323, reused 323, downloaded 0, added 0
+Progress: resolved 344, reused 344, downloaded 0, added 0
+Progress: resolved 361, reused 361, downloaded 0, added 0
+Progress: resolved 368, reused 368, downloaded 0, added 0
+ ERR_PNPM_META_FETCH_FAIL  GET https://registry.npmjs.org/@codemirror%2Fview: request to https://registry.npmjs.org/@codemirror%2Fview failed, reason: getaddrinfo ENOTFOUND registry.npmjs.org
+ ERR_PNPM_META_FETCH_FAIL  GET https://registry.npmjs.org/@codemirror%2Fstate: request to https://registry.npmjs.org/@codemirror%2Fstate failed, reason: getaddrinfo ENOTFOUND registry.npmjs.org
+ ERR_PNPM_META_FETCH_FAIL  GET https://registry.npmjs.org/@codemirror%2Fsearch: request to https://registry.npmjs.org/@codemirror%2Fsearch failed, reason: getaddrinfo ENOTFOUND registry.npmjs.org
+ WARN  GET https://registry.npmjs.org/graceful-fs error (ENOTFOUND). Will retry in 1 minute. 1 retries left.
+Progress: resolved 377, reused 374, downloaded 0, added 0
+Progress: resolved 388, reused 388, downloaded 0, added 0
+Progress: resolved 394, reused 394, downloaded 0, added 0
+ ERR_PNPM_META_FETCH_FAIL  GET https://registry.npmjs.org/@codemirror%2Flanguage: request to https://registry.npmjs.org/@codemirror%2Flanguage failed, reason: getaddrinfo ENOTFOUND registry.npmjs.org
+Progress: resolved 395, reused 394, downloaded 0, added 0
+ ERR_PNPM_META_FETCH_FAIL  GET https://registry.npmjs.org/@codemirror%2Flint: request to https://registry.npmjs.org/@codemirror%2Flint failed, reason: getaddrinfo ENOTFOUND registry.npmjs.org
+Progress: resolved 396, reused 396, downloaded 0, added 0
+ ERR_PNPM_META_FETCH_FAIL  GET https://registry.npmjs.org/@codemirror%2Fautocomplete: request to https://registry.npmjs.org/@codemirror%2Fautocomplete failed, reason: connect ETIMEDOUT 192.0.2.1:443
+Progress: resolved 397, reused 396, downloaded 0, added 0
+ ERR_PNPM_META_FETCH_FAIL  GET https://registry.npmjs.org/@codemirror%2Fcommands: request to https://registry.npmjs.org/@codemirror%2Fcommands failed, reason: connect ETIMEDOUT 192.0.2.1:443
+ WARN  GET https://registry.npmjs.org/@codemirror%2Fview error (ENOTFOUND). Will retry in 10 seconds. 2 retries left.
+ WARN  GET https://registry.npmjs.org/@lezer%2Fcommon error (ENOTFOUND). Will retry in 10 seconds. 2 retries left.
+ WARN  GET https://registry.npmjs.org/@lezer%2Fhighlight error (ENOTFOUND). Will retry in 10 seconds. 2 retries left.
+ WARN  GET https://registry.npmjs.org/@lezer%2Flr error (ENOTFOUND). Will retry in 10 seconds. 2 retries left.
+ WARN  GET https://registry.npmjs.org/style-mod error (ENOTFOUND). Will retry in 10 seconds. 2 retries left.
+ WARN  GET https://registry.npmjs.org/crelt error (ENOTFOUND). Will retry in 10 seconds. 2 retries left.
+Progress: resolved 398, reused 398, downloaded 0, added 0
+ WARN  GET https://registry.npmjs.org/@lezer%2Fhighlight error (ENOTFOUND). Will retry in 1 minute. 1 retries left.
+ WARN  GET https://registry.npmjs.org/@lezer%2Flr error (ENOTFOUND). Will retry in 1 minute. 1 retries left.
+ WARN  GET https://registry.npmjs.org/style-mod error (ENOTFOUND). Will retry in 1 minute. 1 retries left.
+ WARN  GET https://registry.npmjs.org/crelt error (ENOTFOUND). Will retry in 1 minute. 1 retries left.
+ WARN  GET https://registry.npmjs.org/@codemirror%2Flanguage error (ETIMEDOUT). Will retry in 10 seconds. 2 retries left.
+ WARN  GET https://registry.npmjs.org/@codemirror%2Fstate error (ETIMEDOUT). Will retry in 10 seconds. 2 retries left.
+ WARN  GET https://registry.npmjs.org/@codemirror%2Fview error (ETIMEDOUT). Will retry in 1 minute. 1 retries left.
+ WARN  GET https://registry.npmjs.org/@lezer%2Fcommon error (ETIMEDOUT). Will retry in 1 minute. 1 retries left.
+ ERR_PNPM_META_FETCH_FAIL  GET https://registry.npmjs.org/graceful-fs: request to https://registry.npmjs.org/graceful-fs failed, reason: connect ETIMEDOUT 192.0.2.1:443
+ WARN  GET https://registry.npmjs.org/@codemirror%2Flanguage error (ETIMEDOUT). Will retry in 1 minute. 1 retries left.
+ WARN  GET https://registry.npmjs.org/@codemirror%2Fstate error (ETIMEDOUT). Will retry in 1 minute. 1 retries left.
+ WARN  GET https://registry.npmjs.org/crelt error (ETIMEDOUT). Will retry in 10 seconds. 2 retries left.
+ ERR_PNPM_META_FETCH_FAIL  GET https://registry.npmjs.org/crelt: request to https://registry.npmjs.org/crelt failed, reason: getaddrinfo ENOTFOUND registry.npmjs.org
+Progress: resolved 399, reused 398, downloaded 0, added 0
+ WARN  GET https://registry.npmjs.org/@codemirror%2Fstate error (ENOTFOUND). Will retry in 10 seconds. 2 retries left.
+ ERR_PNPM_META_FETCH_FAIL  GET https://registry.npmjs.org/style-mod: request to https://registry.npmjs.org/style-mod failed, reason: getaddrinfo ENOTFOUND registry.npmjs.org
+ ERR_PNPM_META_FETCH_FAIL  GET https://registry.npmjs.org/@lezer%2Flr: request to https://registry.npmjs.org/@lezer%2Flr failed, reason: getaddrinfo ENOTFOUND registry.npmjs.org
+ WARN  GET https://registry.npmjs.org/style-mod error (ENOTFOUND). Will retry in 10 seconds. 2 retries left.
+ WARN  GET https://registry.npmjs.org/w3c-keyname error (ENOTFOUND). Will retry in 10 seconds. 2 retries left.
+Progress: resolved 401, reused 401, downloaded 0, added 0
+ WARN  GET https://registry.npmjs.org/crelt error (ENOTFOUND). Will retry in 1 minute. 1 retries left.
+ WARN  GET https://registry.npmjs.org/style-mod error (ENOTFOUND). Will retry in 1 minute. 1 retries left.
+ WARN  GET https://registry.npmjs.org/w3c-keyname error (ENOTFOUND). Will retry in 1 minute. 1 retries left.
+ ERR_PNPM_META_FETCH_FAIL  GET https://registry.npmjs.org/@lezer%2Fhighlight: request to https://registry.npmjs.org/@lezer%2Fhighlight failed, reason: getaddrinfo ENOTFOUND registry.npmjs.org
+Progress: resolved 402, reused 401, downloaded 0, added 0
+ ERR_PNPM_META_FETCH_FAIL  GET https://registry.npmjs.org/@codemirror%2Fview: request to https://registry.npmjs.org/@codemirror%2Fview failed, reason: getaddrinfo ENOTFOUND registry.npmjs.org
+ ERR_PNPM_META_FETCH_FAIL  GET https://registry.npmjs.org/@codemirror%2Fview: request to https://registry.npmjs.org/@codemirror%2Fview failed, reason: getaddrinfo ENOTFOUND registry.npmjs.org
+ ERR_PNPM_META_FETCH_FAIL  GET https://registry.npmjs.org/@codemirror%2Fview: request to https://registry.npmjs.org/@codemirror%2Fview failed, reason: getaddrinfo ENOTFOUND registry.npmjs.org
+ ERR_PNPM_META_FETCH_FAIL  GET https://registry.npmjs.org/@codemirror%2Fview: request to https://registry.npmjs.org/@codemirror%2Fview failed, reason: getaddrinfo ENOTFOUND registry.npmjs.org
+ ERR_PNPM_META_FETCH_FAIL  GET https://registry.npmjs.org/@lezer%2Fcommon: request to https://registry.npmjs.org/@lezer%2Fcommon failed, reason: getaddrinfo ENOTFOUND registry.npmjs.org
+Progress: resolved 403, reused 401, downloaded 0, added 0
+ ERR_PNPM_META_FETCH_FAIL  GET https://registry.npmjs.org/@lezer%2Fcommon: request to https://registry.npmjs.org/@lezer%2Fcommon failed, reason: getaddrinfo ENOTFOUND registry.npmjs.org
+Progress: resolved 403, reused 403, downloaded 0, added 0
+ WARN  GET https://registry.npmjs.org/@codemirror%2Fstate error (ETIMEDOUT). Will retry in 1 minute. 1 retries left.
+ ERR_PNPM_META_FETCH_FAIL  GET https://registry.npmjs.org/@codemirror%2Flanguage: request to https://registry.npmjs.org/@codemirror%2Flanguage failed, reason: connect ETIMEDOUT 192.0.2.1:443
+ ERR_PNPM_META_FETCH_FAIL  GET https://registry.npmjs.org/@codemirror%2Fstate: request to https://registry.npmjs.org/@codemirror%2Fstate failed, reason: connect ETIMEDOUT 192.0.2.1:443
+ ERR_PNPM_META_FETCH_FAIL  GET https://registry.npmjs.org/@codemirror%2Fstate: request to https://registry.npmjs.org/@codemirror%2Fstate failed, reason: connect ETIMEDOUT 192.0.2.1:443
+ ERR_PNPM_META_FETCH_FAIL  GET https://registry.npmjs.org/@codemirror%2Fstate: request to https://registry.npmjs.org/@codemirror%2Fstate failed, reason: connect ETIMEDOUT 192.0.2.1:443
+ ERR_PNPM_META_FETCH_FAIL  GET https://registry.npmjs.org/@codemirror%2Fstate: request to https://registry.npmjs.org/@codemirror%2Fstate failed, reason: connect ETIMEDOUT 192.0.2.1:443
+ WARN  GET https://registry.npmjs.org/@lezer%2Fcommon error (ENOTFOUND). Will retry in 10 seconds. 2 retries left.
+ WARN  GET https://registry.npmjs.org/@lezer%2Fcommon error (ENOTFOUND). Will retry in 1 minute. 1 retries left.
+ ERR_PNPM_META_FETCH_FAIL  GET https://registry.npmjs.org/style-mod: request to https://registry.npmjs.org/style-mod failed, reason: getaddrinfo ENOTFOUND registry.npmjs.org
+ ERR_PNPM_META_FETCH_FAIL  GET https://registry.npmjs.org/w3c-keyname: request to https://registry.npmjs.org/w3c-keyname failed, reason: getaddrinfo ENOTFOUND registry.npmjs.org
+Progress: resolved 404, reused 403, downloaded 0, added 0
+Progress: resolved 404, reused 404, downloaded 0, added 0

@@ -18,12 +18,6 @@
     "biography": {
       "type": "text"
     },
-    "quiz": {
-      "type": "relation",
-      "relation": "oneToOne",
-      "target": "api::quiz.quiz",
-      "inversedBy": "author"
-    },
     "profile": {
       "type": "text",
       "required": true
