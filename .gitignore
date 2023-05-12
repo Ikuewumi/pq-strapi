@@ -107,7 +107,7 @@ coverage
 ############################
 
 .env
-.env*
+.env.example
 /.cache
 license.txt
 exports
