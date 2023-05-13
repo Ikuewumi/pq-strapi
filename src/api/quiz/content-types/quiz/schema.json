@@ -21,10 +21,6 @@
       "type": "text",
       "required": true
     },
-    "questions": {
-      "type": "json",
-      "required": true
-    },
     "categories": {
       "type": "enumeration",
       "enum": [
@@ -57,6 +53,11 @@
       "type": "relation",
       "relation": "oneToOne",
       "target": "api::author.author"
+    },
+    "questions": {
+      "type": "component",
+      "repeatable": true,
+      "component": "question.featured"
     }
   }
 }
