@@ -1,9 +1,9 @@
 'use strict';
 
 /**
- * question router
+ * admessage router
  */
 
 const { createCoreRouter } = require('@strapi/strapi').factories;
 
-module.exports = createCoreRouter('api::question.question');
+module.exports = createCoreRouter('api::admessage.admessage');

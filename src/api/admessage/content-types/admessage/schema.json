@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "admessages",
+  "info": {
+    "singularName": "admessage",
+    "pluralName": "admessages",
+    "displayName": "admessage"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "text": {
+      "type": "string"
+    }
+  }
+}
