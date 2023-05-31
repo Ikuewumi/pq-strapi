@@ -27,6 +27,7 @@
         "Endocrinology",
         "Gastrointestinal System",
         "Urogenital System",
+        "Biochemistry",
         "Reproductive System",
         "Respiratory System",
         "Nervous System",
@@ -41,8 +42,13 @@
         "Other....",
         "Cardiovascular System",
         "Urinary System",
-        "Clinical Applications"
-      ]
+        "Clinical Applications",
+        "Histology",
+        "Pharmacology",
+        "Renal System",
+        "Anatomy"
+      ],
+      "default": "Anatomy"
     },
     "cover": {
       "type": "text",
